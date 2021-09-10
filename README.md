@@ -1,5 +1,9 @@
 ### Hi there 👋
+![pangwoo9670 Github States](https://github-readme-stats.vercel.app/api?username=pangwoo9670&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangwoo9670&layout=compact)](https://github.com/pangwoo9670/github-readme-stats)
 <!--
 **pangwoo9670/pangwoo9670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
